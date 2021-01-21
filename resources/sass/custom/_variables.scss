@@ -1,0 +1,34 @@
+//
+// Custom Variables
+//
+// Here you can add your own variables overrides
+//
+// The file is included before any other variable file,
+// so you can override them because they all use !default
+// --------------------------------------------------
+
+// For example, changing the primary color
+// $primary: ##febe0a;
+$fa-font-path: "/fonts/fontawesome";
+$font-size-root: 14px;
+$font-weight-bold: 800;
+
+$font-size-h1:40px;
+$font-size-h2:32px;
+$font-size-h3:14px;
+$font-size-h4:12px;
+$font-size-big-text:36px;
+$font-size-faq-title:25px;
+$font-size-bigger-text:22px;
+$font-size-highlight-text:18px;
+
+$primary_color_1:#1f1f54;//#191955;
+$primary_color_2:#ffb10a;
+$primary_color_3:#704af1;
+$secondary_color:#eeeeee;
+$secondary_color_2:#9fa5a9;
+$secondary_color_3:#f4f4f4;
+$secondary_color_4:#81868a;
+$secondary_color_5:#dfdfe4;
+$secondary_color_6:#cccccc;
+$secondary_color_7:#5542b8;
